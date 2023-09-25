@@ -1,0 +1,8 @@
+mainUrl: https://testslotegrator.com/
+email: opel808437@gmail.com
+password: 94ZLjCaTIEp8
+apiLogin: api/tester/login
+apiCreate: api/automationTask/create
+apiGetOne: api/automationTask/getOne
+apiGetAll: api/automationTask/getAll
+apiDelete: api/automationTask/deleteOne/
