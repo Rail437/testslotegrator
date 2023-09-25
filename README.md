@@ -23,12 +23,12 @@ Retrofit, Unirest и т.д. - мы в частности используем Fe
 ОР - ожидаемый результат.
 ФР - фактический результат.
 
-1. Ошибка статус кода при ответе на запрос получения токена.
-   При запросе на адрес /api/tester/login
-   ОР: HTTP response code 200
+1. Ошибка статус кода при ответе на запрос получения токена.  
+   При запросе на адрес /api/tester/login  
+   ОР: HTTP response code 200  
    ФР: HTTP response code 201
 
-2. Ошибка статус кода при ответе на запрос получения токена.
-   При запросе на адрес api/automationTask/getOne
-   ОР: HTTP response code 200
+2. Ошибка статус кода при ответе на запрос получения токена.  
+   При запросе на адрес api/automationTask/getOne  
+   ОР: HTTP response code 200  
    ФР: HTTP response code 201
