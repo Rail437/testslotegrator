@@ -1,7 +1,6 @@
 Задание:
 ***
-Автоматизировать REST API-тесты на Java используя любой соответствующий инструмент (например RestAssured, Feign,
-Retrofit, Unirest и т.д. - мы в частности используем Feign и RestAssured):
+Автоматизация REST API-теста на Java используя RestAssured:
 
 1. Получить токен пользователя (/api/tester/login)
    Ожидаемый результат: HTTP response code 200, ответ содержит токен пользователя
